@@ -1,0 +1,7 @@
+
+seed(0)_beta(1.0)_attn_drop(0.0)_transformer(2)_layers(3)_embedder(DOSTransformer)_lr(0.0001)_batch_size(8)_hidden(256)_random_state(0)_dataset(whole)_
+best epoch : 50 
+best RMSE : 0.1288 
+best MSE : 0.0206 
+best MAE : 0.0781 
+best R2 : 0.7129 
